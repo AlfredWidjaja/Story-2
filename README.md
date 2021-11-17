@@ -1,2 +1,2 @@
 # Story-2
-Testing for mergin using github
+Testing for merging using github
